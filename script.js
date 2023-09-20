@@ -1,5 +1,5 @@
-//1e aanpassingetje
-//3e aanpassingetje
+//1e aanpassinkje
+//3e aanpassing
 let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 //6e aanpassing
 //7e aanpassing
