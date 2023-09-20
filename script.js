@@ -1,4 +1,5 @@
 //1e aanpassing
+//2e aanpassing
 let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 
 function setup() {
