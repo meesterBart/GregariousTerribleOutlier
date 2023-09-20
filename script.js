@@ -1,3 +1,4 @@
+//1e aanpassing
 let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 
 function setup() {
