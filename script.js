@@ -4,11 +4,13 @@ let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 //6e aanpassing
 //7e aanpassing
 function setup() {
+  // commentaar
   createCanvas(windowWidth, windowHeight);
   background(255);
 }
 
 function draw() {
+  // commentaar
   noStroke()
   fill(random(colorlist));
   ellipse(mouseX, mouseY, 25, 25);
