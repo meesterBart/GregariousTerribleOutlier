@@ -2,6 +2,7 @@
 //3e aanpassing
 let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 //6e aanpassing
+//7e aanpassing
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
